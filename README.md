@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-    $ Unko.unko
+    $ unko
 
 ## Contributing
 
